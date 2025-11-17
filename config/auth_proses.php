@@ -78,4 +78,3 @@ else if ($action == 'logout') {
 else {
     redirect('../index.php?page=login', 'Action tidak valid!', 'error');
 }
-?>
